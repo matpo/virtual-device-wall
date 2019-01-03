@@ -12,22 +12,22 @@
   "author": "Parashuram <code@nparashuram.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "archiver": "^0.16.0",
-    "commander": "^2.9.0",
-    "cordova-plugin-browsersync": "^0.1.3",
-    "debug": "^2.2.0",
-    "glob": "^5.0.15",
+    "archiver": "0.16.0",
+    "commander": "2.9.0",
+    "cordova-plugin-browsersync": "0.1.3",
+    "debug": "2.2.0",
+    "glob": "5.0.15",
     "ngrok": "0.1.99",
-    "q": "^1.4.1",
-    "request": "^2.65.0"
+    "q": "1.4.1",
+    "request": "2.65.0"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nparashuram/virtual-device-wall.git"
+    "url": "git+https://github.com/matpo/virtual-device-wall.git"
   },
   "bugs": {
-    "url": "https://github.com/nparashuram/virtual-device-wall/issues"
+    "url": "https://github.com/matpo/virtual-device-wall/issues"
   },
-  "homepage": "https://github.com/nparashuram/virtual-device-wall#readme"
+  "homepage": "https://github.com/matpo/virtual-device-wall#readme"
 }
